@@ -35,7 +35,6 @@ void piotr_orwinski(void)
 	Piotr Orwiński
 }
 
-
 void radoslaw_michalak(void)
 {
 	Radosław Michalak
@@ -46,7 +45,4 @@ void yuliia_kovalchuk(void)
 	Yuliia Kovalchuk
 }
 
-void adrian_walczak(void)
-{
-	Adrian Walczak
-}
+
